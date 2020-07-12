@@ -25,7 +25,7 @@ class FlightStyles {
     color: FlightColors.accentColor,
     fontFamily: 'Oxygen',
     fontSize: 16,
-    fontWeight: FontWeight.w600,
+    fontWeight: FontWeight.w500,
   );
   static const subtitle = TextStyle(
     color: FlightColors.lessDark,

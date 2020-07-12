@@ -10,4 +10,7 @@ class FlightColors {
   static const dark = Color(0xff000000);
   static const lessDark = Color(0xff1E262C);
   static const shadow = Color(0xaf000000);
+  static const discountBackground = Color(0xffFFF0E9);
+  static const borderColor = Color(0xffDEDEDE);
+  static const chipBackground = Color(0xffF6F6F6);
 }
