@@ -4,4 +4,4 @@ A repository containing UI elements for a **[Flight Tickets Deal Tracker App](ht
 
 Tutorial - **[Techie Blossom](https://www.youtube.com/watch?v=GeMJz3EcBgs)**
 
-<img src="https://github.com/hauntarl/flui_001_flight_list/blob/master/screenhots/1.png" width="250"> <img src="https://github.com/hauntarl/flui_001_flight_list/blob/master/screenhots/2.png" width="250">
+<img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/home.png" width="250"> <img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/results.png" width="250">
